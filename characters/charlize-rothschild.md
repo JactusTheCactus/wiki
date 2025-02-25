@@ -2,14 +2,7 @@
 layout: default
 title: Charlize Rothschild
 ---
-```
-Afrikaans
-French
-English
 
-Jewish
-German
-```
 # [shar-LEEZ]<br>[ROTE-shild]
 <dl>
 <dt>Species</dt>
