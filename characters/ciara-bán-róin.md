@@ -3,8 +3,7 @@ layout: default
 title: Ciara Bán Róin
 ---
 
-<dl>
-Title
+<dl>Title
 <dt>Key</dt>
 <dd>Data</dd>
 </dl>
