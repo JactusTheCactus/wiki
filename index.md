@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Page, other
+title: Home Page
 ---
 
 [Characters](characters.md)
