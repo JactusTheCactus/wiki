@@ -11,7 +11,7 @@ title: Ciara Bán Róin
 <dt>Job</dt>
 <dd>[N/A]</dd>
 <dt>Place of Birth</dt>
-<dd>Caisleán na Mainge,<br>Contae Chiarraí,<br>An Mhumhain,<br>Éire</dd>
+<dd>Caisleán na Mainge, Contae Chiarraí, An Mhumhain, Éire</dd>
 <dt>Spoken Languages</dt>
 <dd>Gaeilge</dd>
 <dd>English</dd>
