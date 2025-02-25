@@ -74,17 +74,15 @@ Using her magic too much could expose her true nature, and she only taps into it
 
 # Backstory:
 
-## The Knot & Sealskin:
-
-Ciara has a Celtic knot on her forehead in seal form, which is a constant reminder of her mysterious nature. She doesn’t know its significance but fears that its glow could reveal her identity as a Selkie.
-<br>Her sealskin is alive in her human form, and when she becomes agitated, it reacts with fur standing on end. This physical reaction is one of the ways she could be exposed.
-## Isolation:
-
-She believes she is the last of her kind, as she’s never encountered another Selkie. She thinks of herself as a mutated human, rather than a separate magical species.
-## Her Fears:
-
-The world she lives in is dangerous for magical creatures, and she hides her abilities to avoid being discovered and persecuted.
-<br>Her biggest fear is being exposed, especially when her sealskin or the knot might give her away.
-## Sea Connection:
-
-The sea is both her refuge and her prison. She feels most alive when near the water but also trapped by her need to keep her true nature a secret. Her feelings of longing for the ocean are compounded by the isolation she experiences on land.
+<dl>
+<dt>The Knot & Sealskin</dt>
+<dd>Ciara has a Celtic knot on her forehead in seal form, which is a constant reminder of her mysterious nature. She doesn’t know its significance but fears that its glow could reveal her identity as a Selkie.
+<br>Her sealskin is alive in her human form, and when she becomes agitated, it reacts with fur standing on end. This physical reaction is one of the ways she could be exposed.</dd>
+<dt>Isolation</dt>
+<dd>She believes she is the last of her kind, as she’s never encountered another Selkie. She thinks of herself as a mutated human, rather than a separate magical species.</dd>
+<dt>Her Fears</dt>
+<dd>The world she lives in is dangerous for magical creatures, and she hides her abilities to avoid being discovered and persecuted.
+<br>Her biggest fear is being exposed, especially when her sealskin or the knot might give her away.</dd>
+<dt>Sea Connection</dt>
+<dd>The sea is both her refuge and her prison. She feels most alive when near the water but also trapped by her need to keep her true nature a secret. Her feelings of longing for the ocean are compounded by the isolation she experiences on land.</dd>
+</dl>
