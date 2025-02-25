@@ -13,7 +13,7 @@ title: Lucia Iulia Libo
 <dt>Place of Birth</dt>
 <dd>[city]</dd>
 <dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>Res publica Romana</dd>
 <dt>Spoken Languages</dt>
 <dd>Sermo Vulgaris</dd>
 <dd>English</dd>
