@@ -16,7 +16,7 @@ title: Anișoara Căpățână
 <dd>Mobster Heir</dd>
 <dt>Place of Birth</dt>
 <dd>București, București – Ilfov, România</dd>
-<dt>Languages</dt>
+<dt>Spoken Languages</dt>
 <dd>Română</dd>
 <dd>English</dd>
 </dl>
