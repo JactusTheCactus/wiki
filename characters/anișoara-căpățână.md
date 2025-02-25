@@ -1,4 +1,7 @@
-# Anișoara Căpățână
+---
+layout: default
+title: Anișoara Căpățână
+---
 
 ## [ah-ni-sho-AR-ah]-[kuh-puh-TSUU-nuh]
 
