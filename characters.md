@@ -3,4 +3,4 @@ layout: default
 title: Characters
 ---
 
-`None` :(
+- [Anișoara Căpățână](characters/anișoara-căpățână.md]
