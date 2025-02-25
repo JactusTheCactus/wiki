@@ -2,7 +2,7 @@
 layout: default
 title: Gwendolyn Rhys
 ---
-# [GWEN-doh-lin]<br>[REES]
+# [GWEN-doh-lun]<br>[REES]
 <dl>
 <dt>Species</dt>
 <dd>Apex Predator</dd>
