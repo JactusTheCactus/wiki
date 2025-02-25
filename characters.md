@@ -1,6 +1,6 @@
 ---
 layout: default
-title: characters
+title: Characters
 ---
 
 `None` :(
