@@ -1,13 +1,3 @@
-# Title
-- This
-- Is
-- A
-- List
+# Wiki
 
-This is `code`
-
-This is __Bold__ and _Italic_.
-
-This|Is
-:-:|:-:
-A|Table
+[Characters](characters.md)
