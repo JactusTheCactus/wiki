@@ -23,24 +23,24 @@ title: Gabi Belnades
 
 <dl>
 <dt>Hair</dt>
-- long
-- dark brown
+<dd>long</dd>
+<dd>dark brown</dd>
 <dt>Height</dt>
-- above average
+<dd>above average</dd>
 <dt>Build</dt>
-- toned
-- muscular
+<dd>toned</dd>
+<dd>muscular</dd>
 <dt>Figure</dt>
-- curvy
-- attractive
-- large chest/ass
+<dd>curvy</dd>
+<dd>attractive</dd>
+<dd>large chest/ass</dd>
 <dt>Sense of humour</dt>
-- light
-- sarcastic
-- teasing
+<dd>light</dd>
+<dd>sarcastic</dd>
+<dd>teasing</dd>
 <dt>Vibe</dt
-- carefree
-- playful
+<dd>carefree</dd>
+<dd>playful</dd>
 </dl>
 
 Gabi wears a black leather choker, with a heart-shaped ring in the middle. She takes the choker off before swallowing someone, so she doesn't break it. Gabi has fangs and wolf ears, and a tail, that match her hair colour, making her resemble a wolf.
