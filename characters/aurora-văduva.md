@@ -11,7 +11,7 @@ title: Aurora Văduva
 <dt>Job</dt>
 <dd>Waitress</dd>
 <dt>Place of Birth</dt>
-<dd>Constanța, Județul Constanța, România</dd>
+<dd>Constanța,<br>Județul Constanța,<br>România</dd>
 <dt>Spoken Languages</dt>
 <dd>Română</dd>
 <dd>English</dd>
