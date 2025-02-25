@@ -1,22 +1,8 @@
-# Header 1
-
----
-
-1. This
-1. Is
-1. An
-1. Ordered
-1. List
-
+# Title
 - This
 - Is
-- An
-- Unordered
+- A
 - List
-
-```
-This is Code
-```
 
 This is a `code snippet`
 
