@@ -1,6 +1,4 @@
 # Header 1
-## Header 2
-### Header 3
 
 ---
 
@@ -15,3 +13,15 @@
 - An
 - Unordered
 - List
+
+```
+This is Code
+```
+
+This is a `code snippet`
+
+This is __Bold__ and _Italic_.
+
+This|Is
+:-:|:-:
+A|Table
