@@ -3,7 +3,7 @@ layout: default
 title: Anișoara Căpățână
 ---
 
-## [ah-ni-sho-AR-ah]-[kuh-puh-TSUU-nuh]
+# [ah-ni-sho-AR-ah]<br>[kuh-puh-TSUU-nuh]
 
 - Species: __Human__
 - Sex: __Female__
