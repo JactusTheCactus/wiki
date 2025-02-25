@@ -11,8 +11,8 @@ title: Gwendolyn Rhys
 <dt>Job</dt>
 <dd>[job]</dd>
 <dt>Place of Birth</dt>
-<dd>[city]</dd>
-<dd>[province/state/county/etc.]</dd>
+<dd>Caerdydd</dd>
+<dd>Dinas a Sir Caerdydd</dd>
 <dd>Cymru</dd>
 <dt>Spoken Languages</dt>
 <dd>Cymraeg</dd>
