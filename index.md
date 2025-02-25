@@ -2,7 +2,8 @@
 - This
 - Is
 - A
-- List  
+- List
+
 This is `code`
 This is __Bold__ and _Italic_.
 This|Is
