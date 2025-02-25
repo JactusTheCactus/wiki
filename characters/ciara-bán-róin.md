@@ -18,22 +18,36 @@ title: Ciara Bán Róin
 </dl>
 
 # Appearance:
-<h4>Human Form:
+
+## Human Form:
+
 Ciara has an ethereal, otherworldly beauty, with sharp, striking features. Her skin is pale with a faint silvery sheen, and her eyes are a deep blue, reflecting the colors of the ocean. Her hair is long, dark, and wavy, resembling the color of storm clouds over the sea.She wears her sealskin as a coat, which she keeps closely guarded. The fur on the coat is soft and shimmering, with faint patterns that resemble ripples on water.
 <br>When her emotionsrun high, especially fear or anger, the fur of her sealskin stands on end, becoming visible even in human form.
-<h4>Seal Form:
+
+## Seal Form:
+
 As a seal, Ciara has sleek, silvery fur with a unique Celtic knot on her forehead. The knot is faint during most of the day but glows a bright blue when the moon is full.<br>Her seal form is strong and graceful, with eyes that are both intelligent and filled with ancient wisdom.
 # Personality:
-<h4>Witty:
+
+## Witty:
+
 Quick with a sharp retort, Ciara uses humor to mask deeper feelings and keep others at arm's length.
-<h4>Playful:
+
+## Playful:
+
 She enjoys teasing others and is often carefree in her interactions, though it masks the weight of her hidden life.
-<h4>Sarcastic:
+
+## Sarcastic:
+
 Her sarcasm often acts as a defense mechanism, especially when she feels vulnerable or threatened.
-<h4>Carefree:
+
+## Carefree:
+
 On the surface, Ciara seems to take life lightly. She revels in the beauty of the sea and the freedom it gives her, though she hides the turmoil beneath.
+
 # Abilities:
-<h4>Elemental Magic:
+
+## Elemental Magic:
 Ciara can control seven elements: Earth, Fire, Water, Air, Lightning, Light, and Dark.
 <br>She can summon and manipulate:
 
