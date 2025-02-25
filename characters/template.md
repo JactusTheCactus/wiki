@@ -2,7 +2,7 @@
 layout: default
 title: First Middle Last
 ---
-# [FURST]<br>[MI-dul]<br>[LAST]
+# [FIRST]<br>[MIDDLE]<br>[LAST]
 <dl>
 <dt>Species</dt>
 <dd>[species]</dd>
