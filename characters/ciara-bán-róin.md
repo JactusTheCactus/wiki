@@ -36,6 +36,7 @@ On the surface, Ciara seems to take life lightly. She revels in the beauty of th
 <h4>Elemental Magic:
 Ciara can control seven elements: Earth, Fire, Water, Air, Lightning, Light, and Dark.
 <br>She can summon and manipulate:
+
 <dl>
 <dt>Ice</dt>
 <dd>Freeze water or create ice structures.</dd>
@@ -52,16 +53,24 @@ Ciara can control seven elements: Earth, Fire, Water, Air, Lightning, Light, and
 <dt>Dark</dt>
 <dd>Blend into shadows, manipulate darkness, or hide her presence.</dd>
 </dl>
+
 ## Caution:
+
 Using her magic too much could expose her true nature, and she only taps into it as a last resort. Her emotions—anger or stress—can make her lose control, causing unintended magical consequences.
+
 # Backstory:
+
 ## The Knot & Sealskin:
+
 Ciara has a Celtic knot on her forehead in seal form, which is a constant reminder of her mysterious nature. She doesn’t know its significance but fears that its glow could reveal her identity as a Selkie.
 <br>Her sealskin is alive in her human form, and when she becomes agitated, it reacts with fur standing on end. This physical reaction is one of the ways she could be exposed.
 ## Isolation:
+
 She believes she is the last of her kind, as she’s never encountered another Selkie. She thinks of herself as a mutated human, rather than a separate magical species.
 ## Her Fears:
+
 The world she lives in is dangerous for magical creatures, and she hides her abilities to avoid being discovered and persecuted.
 <br>Her biggest fear is being exposed, especially when her sealskin or the knot might give her away.
 ## Sea Connection:
+
 The sea is both her refuge and her prison. She feels most alive when near the water but also trapped by her need to keep her true nature a secret. Her feelings of longing for the ocean are compounded by the isolation she experiences on land.
