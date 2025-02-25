@@ -7,3 +7,6 @@ title: Characters
 - [Aurora Văduva](characters/aurora-văduva.md)
 - [Charlize Rothschild](characters/charlize-rothschild.md)
 - [Ciara Bán Róin](characters/ciara-bán-róin.md)
+<!--
+- [First Middle Last](characters/first-middle-last.md)
+-->
