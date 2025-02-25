@@ -1,21 +1,21 @@
 ---
 layout: default
-title: First Middle Last
+title: Joanna Tuttle
 ---
-# [FIRST]<br>[MIDDLE]<br>[LAST]
+# [yoh-AH-nah]<br>[TUH-tuul]
 <dl>
 <dt>Species</dt>
-<dd>[species]</dd>
+<dd>Changeling</dd>
 <dt>Sex</dt>
-<dd>[sex]</dd>
+<dd>Female</dd>
 <dt>Job</dt>
-<dd>[job]</dd>
+<dd>Neurotrauma Nurse</dd>
 <dt>Place of Birth</dt>
-<dd>[city]</dd>
-<dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>Smellingerlân</dd>
+<dd>Fryslân</dd>
+<dd>Nederland</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>Westerlauwersk Frysk</dd>
+<dd>Nederlands</dd>
+<dd>English</dd>
 </dl>
-[description]
