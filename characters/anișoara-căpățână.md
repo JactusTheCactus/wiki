@@ -5,6 +5,7 @@ title: Anișoara Căpățână
 
 # [ah-ni-sho-AR-ah]<br>[kuh-puh-TSUU-nuh]
 
+- Preferred Name: __Ani__
 - Species: __Human__
 - Sex: __Female__
 - Job: __Mobster Heir__
