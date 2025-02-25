@@ -5,6 +5,7 @@ title: Charlize Rothschild
 ```
 Afrikaans
 French
+English
 ```
 # [shar-LEEZ]<br>[ROTE-shild]
 <dl>
