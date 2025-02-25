@@ -15,7 +15,9 @@ title: Anișoara Căpățână
 <dt>Job</dt>
 <dd>Mobster Heir</dd>
 <dt>Place of Birth</dt>
-<dd>București,<br>București – Ilfov,<br>România</dd>
+<dd>București</dd>
+<dd>București – Ilfov</dd>
+<dd>România</dd>
 <dt>Spoken Languages</dt>
 <dd>Română</dd>
 <dd>English</dd>
