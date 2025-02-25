@@ -4,9 +4,19 @@ title: Charlize Rothschild
 ---
 
 # [shar-LEEZ]<br>[ROTE-shild]
-
-- Species: Apex Pred
-- Sex: Female
+<dl>
+<dt>Species</dt>
+<dd>Apex Predator</dd>
+<dt>Sex</dt>
+<dd>Female</dd>
+<dt>Job</dt>
+<dd>Student</dd>
+<dt>Place of Birth</dt>
+<dd>[city],<br>[province/state/county/etc.],<br>[country]</dd>
+<dt>Spoken Languages</dt>
+<dd>[native]</dd>
+<dd>[learned]</dd>
+</dl>
 
 ## Physical Description & Species
 Charlize appears as an average human female, standing at around 5'6" with a slender yet athletic build. Her crimson eyes, a dead giveaway of her Pred nature, seem to gleam with an unsettling hunger. A small, vertical split runs along her tongue, a distinctive trait shared by her kind. Her dark hair is often styled in a chic, asymmetrical bob that frames her heart-shaped face. She sports a subtle tattoo of a serpent coiled around her right bicep, marking her as a formidable Apex predator.
