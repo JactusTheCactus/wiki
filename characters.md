@@ -9,4 +9,5 @@ title: Characters
 - [Ciara Bán Róin](characters/ciara-bán-róin.md)
 - [Gabi Belnades](characters/gabi-belnades.md)
 - [Gwendolyn Rhys](characters/gwendolyn-rhys.md)
+- [Joanna Tuttle](characters/joanna-tuttle.md)
 - [Template](characters/template.md)
