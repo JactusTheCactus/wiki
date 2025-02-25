@@ -41,11 +41,8 @@ title: Ciara Bán Róin
 <dd>On the surface, Ciara seems to take life lightly. She revels in the beauty of the sea and the freedom it gives her, though she hides the turmoil beneath.</dd>
 </dl>
 
-# Abilities:
-
-## Elemental Magic:
+# Elemental Magic:
 Ciara can control seven elements: Earth, Fire, Water, Air, Lightning, Light, and Dark.
-<br>She can summon and manipulate:
 
 <dl>
 <dt>Ice</dt>
