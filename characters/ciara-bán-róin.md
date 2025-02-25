@@ -20,8 +20,8 @@ title: Ciara Bán Róin
 # Appearance:
 <dl>
 <dt>Human Form</dt>
-<dd>Ciara has an ethereal, otherworldly beauty, with sharp, striking features. Her skin is pale with a faint silvery sheen, and her eyes are a deep blue, reflecting the colors of the ocean. Her hair is long, dark, and wavy, resembling the color of storm clouds over the sea.She wears her sealskin as a coat, which she keeps closely guarded. The fur on the coat is soft and shimmering, with faint patterns that resemble ripples on water.
-<br>When her emotionsrun high, especially fear or anger, the fur of her sealskin stands on end, becoming visible even in human form.</dd>
+<dd>Ciara has an ethereal, otherworldly beauty, with sharp, striking features. Her skin is pale with a faint silvery sheen, and her eyes are a deep blue, reflecting the colors of the ocean. Her hair is long, dark, and wavy, resembling the color of storm clouds over the sea.She wears her sealskin as a coat, which she keeps closely guarded. The fur on the coat is soft and shimmering, with faint patterns that resemble ripples on water.</dd>
+<dd>When her emotions run high, especially fear or anger, the fur of her sealskin stands on end, becoming visible even in human form.</dd>
 <dt>Seal Form</dt>
 <dd>As a seal, Ciara has sleek, silvery fur with a unique Celtic knot on her forehead. The knot is faint during most of the day but glows a bright blue when the moon is full.<br>Her seal form is strong and graceful, with eyes that are both intelligent and filled with ancient wisdom.</dd>
 </dl>
