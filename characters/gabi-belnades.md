@@ -38,7 +38,7 @@ title: Gabi Belnades
 <dd>light</dd>
 <dd>sarcastic</dd>
 <dd>teasing</dd>
-<dt>Vibe</dt
+<dt>Vibe</dt>
 <dd>carefree</dd>
 <dd>playful</dd>
 </dl>
