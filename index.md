@@ -4,7 +4,7 @@
 - A
 - List
 
-This is a `code snippet`
+This is `code`
 
 This is __Bold__ and _Italic_.
 
