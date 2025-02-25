@@ -13,7 +13,7 @@ title: Gwendolyn Rhys
 <dt>Place of Birth</dt>
 <dd>[city]</dd>
 <dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>Cymru</dd>
 <dt>Spoken Languages</dt>
 <dd>Cymraeg</dd>
 <dd>English</dd>
