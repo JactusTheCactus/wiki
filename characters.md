@@ -8,4 +8,5 @@ title: Characters
 - [Charlize Rothschild](characters/charlize-rothschild.md)
 - [Ciara Bán Róin](characters/ciara-bán-róin.md)
 - [Gabi Belnades](characters/gabi-belnades.md)
+- [Gwendolyn Rhys](characters/gwendolyn-rhys.md)
 - [Template](characters/template.md)
