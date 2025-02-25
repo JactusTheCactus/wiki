@@ -15,8 +15,8 @@ title: Lucia Iulia Libo
 <dd>[province/state/county/etc.]</dd>
 <dd>[country]</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>Sermo Vulgaris</dd>
+<dd>English</dd>
 </dl>
 
 Lucia Iulia Libo, or Iulia for short, is a rare and formidable Dracomorph born during the Roman Republic era. Her species is the result of a human and dragon intermingling, granting her extraordinary abilities in both her humanoid and draconic forms.
