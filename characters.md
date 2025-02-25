@@ -10,4 +10,5 @@ title: Characters
 - [Gabi Belnades](characters/gabi-belnades.md)
 - [Gwendolyn Rhys](characters/gwendolyn-rhys.md)
 - [Joanna Tuttle](characters/joanna-tuttle.md)
+- [Lucia Iulia Libo](characters/lucia-iulia-libo.md)
 - [Template](characters/template.md)
