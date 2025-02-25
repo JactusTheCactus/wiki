@@ -14,8 +14,7 @@ title: Charlize Rothschild
 <dt>Place of Birth</dt>
 <dd>[city],<br>[province/state/county/etc.],<br>[country]</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>English</dd>
 </dl>
 
 ## Physical Description & Species
