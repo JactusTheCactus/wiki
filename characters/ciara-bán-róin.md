@@ -2,13 +2,6 @@
 layout: default
 title: Ciara Bán Róin
 ---
-
-<dl>Title
-<dt>Key</dt>
-<dd>Data</dd>
-</dl>
-
-
 # [KEE-rah]<br>[BAN]<br>[ROH-in]
 <dl>
 <dt>Species</dt>
