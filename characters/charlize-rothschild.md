@@ -19,7 +19,7 @@ German
 <dt>Job</dt>
 <dd>Student</dd>
 <dt>Place of Birth</dt>
-<dd>[city],<br>[province/state/county/etc.],<br>[country]</dd>
+<dd>Philadelphia,<br>Pennsylvania,<br>USA</dd>
 <dt>Spoken Languages</dt>
 <dd>English</dd>
 </dl>
