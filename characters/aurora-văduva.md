@@ -2,17 +2,6 @@
 layout: default
 title: Aurora Văduva
 ---
-<!DOCTYPE html>
-<style>
-    body {
-        font-size: 1.5rem;
-        font-family: Verdana;
-        padding: 2em;
-    }
-</style>
-
-<a href='../index.html'>
-    <= Back</a>
         <h1>Aurora Văduva</h1>
         <h2>[oh-ROR-ah]-[vuh-DOO-vah]</h2>
         <ul>
