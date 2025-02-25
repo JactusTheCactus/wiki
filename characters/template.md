@@ -11,7 +11,7 @@ title: First Middle Last
 <dt>Job</dt>
 <dd>[job]</dd>
 <dt>Place of Birth</dt>
-<dd>[city], [province/state/county/etc.], [country]</dd>
+<dd>[city],<br>[province/state/county/etc.],<br>[country]</dd>
 <dt>Spoken Languages</dt>
 <dd>[native]</dd>
 <dd>[learned]</dd>
