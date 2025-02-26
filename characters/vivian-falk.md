@@ -13,10 +13,10 @@ title: Vivian Falk
 <dt>Place of Birth</dt>
 <dd>[city]</dd>
 <dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>Sverige</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>Svenska</dd>
+<dd>English</dd>
 </dl>
 
 Vivian is the older sister and protector of [Mia](mia.md)
