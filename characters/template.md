@@ -18,4 +18,3 @@ title: First Middle Last
 <dd>[native]</dd>
 <dd>[learned]</dd>
 </dl>
-[description]
