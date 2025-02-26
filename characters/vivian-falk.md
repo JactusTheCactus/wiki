@@ -1,13 +1,13 @@
 ---
 layout: default
-title: First Middle Last
+title: Vivian Falk
 ---
-# [FIRST]<br>[MIDDLE]<br>[LAST]
+# [VI-vee-in]<br>[FALK]
 <dl>
 <dt>Species</dt>
-<dd>[species]</dd>
+<dd>Apex Predator</dd>
 <dt>Sex</dt>
-<dd>[sex]</dd>
+<dd>Female</dd>
 <dt>Job</dt>
 <dd>[job]</dd>
 <dt>Place of Birth</dt>
@@ -18,4 +18,23 @@ title: First Middle Last
 <dd>[native]</dd>
 <dd>[learned]</dd>
 </dl>
-[description]
+
+Vivian is the older sister and protector of [Mia](mia.md)
+
+<dl>
+<dt>Physical Characteristics & Species</dt>
+<dd>Vivian is an Apex Pred, a rare and terrifying subspecies of humans. Standing at an imposing 8 feet tall, her physique is a testament to her exceptional strength. Her skin is fair and unblemished, a stark contrast to the crimson hue of her piercing eyes - a hallmark of her predatory lineage. A snake-like forked tongue darts in and out of her mouth, revealing the split in the middle, another distinct feature of her kind.</dd>
+<dt>Body & Outfit</dt>
+<dd>Vivian's body is a lean, muscular machine, honed from years of predatorial existence. She wears a sleeveless leather jacket, its worn brown surface adorned with intricate, blood-red tattoos that trail down her arms, a visual representation of her apex status. A black tank top clings to her toned torso, while fitted jeans hug her powerful thighs. Her feet are clad in sturdy, knee-high boots, perfect for traversing the urban jungle she calls home.</dd>
+<dt>Personality & Behavior</dt>
+<dd>Despite her intimidating stature, Vivian has a soft spot for those she considers friends. She's fiercely loyal and will go to great lengths to protect them, even if it means consuming someone who poses a threat. Vivian's emotions can be volatile, often leading to impulsive decisions, especially when jealousy rears its head. These outbursts can result in her devouring an unsuspecting individual, a testament to her primal nature.</dd>
+<dt>Attributes & Traits</dt>
+<dd>Physical Strength: Exceptional</dd>
+<dd>Speed: Average for her size</dd>
+<dd>Intelligence: High</dd>
+<dd>Agility: Below average</dd>
+<dd>Vore Ability: Can swallow humans whole</dd>
+<dd>Tattoos: Blood-red, depicting her apex status</dd>
+<dt>Hobbies & Quirks</dt>
+<dd>Vivian enjoys exploring the city's hidden corners, often seeking out secluded spots to relax and unwind. She has a fondness for heavy metal music and can frequently be found at bars or rock/metal concerts.</dd>
+</dl>
