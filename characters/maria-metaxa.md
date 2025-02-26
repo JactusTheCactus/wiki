@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Maria Metaxa<br><i>Μαρία Μεταξά</i>
+title: Maria Metaxa
+description: Μαρία Μεταξά
 ---
 # [ma-REE-ah]<br>[may-ta-KSA]
 <dl>
