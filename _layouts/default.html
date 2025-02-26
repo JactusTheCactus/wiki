@@ -1,6 +1,18 @@
-<footer class="site-footer">
-  <span class="site-footer-credits">
-    <!-- Change this text to whatever you want -->
-    'Character Wiki' is maintained by JactusTheCactus.
-  </span>
-</footer>
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  
+  {% include head.html %}
+
+  <body>
+    {% include page-header.html %}
+
+    <section class="main-content">
+      
+      {{ content }}
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
+</html>
