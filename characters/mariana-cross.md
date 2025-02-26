@@ -15,8 +15,8 @@ title: Mariana Cross
 <dd>[province/state/county/etc.]</dd>
 <dd>[country]</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>Latinum</dd>
+<dd>English</dd>
 </dl>
 
 Mariana is a very powerful female demon. her skin tone is naturally a very deep shade of red, but she can disguise it as a Caucasian skin tone. Mariana has a long, thin tail, with a diamond-shaped tip. The only way to harm her is with the use of holy items (cross, holy water, etc.)
