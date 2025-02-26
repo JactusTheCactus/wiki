@@ -1,21 +1,22 @@
 ---
 layout: default
-title: First Middle Last
+title: Luca Matei
 ---
-# [FIRST]<br>[MIDDLE]<br>[LAST]
+# [LOO-kah]<br>[mah-TAY]
 <dl>
 <dt>Species</dt>
-<dd>[species]</dd>
+<dd>Vampire</dd>
 <dt>Sex</dt>
-<dd>[sex]</dd>
+<dd>Male</dd>
 <dt>Job</dt>
 <dd>[job]</dd>
 <dt>Place of Birth</dt>
-<dd>[city]</dd>
-<dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>Constanța</dd>
+<dd>Județul Constanța</dd>
+<dd>România</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>Română</dd>
+<dd>English</dd>
 </dl>
-[description]
+
+Luca is from Constanța, Romania. He is also a 300-year-old vampire, but tends to keep that fact well-hidden. Luca has a black rose tattoo on his forearm, with a name written in Romanian Cyrillic, reading `Дарйа Матєй` (`Daria Matei`).
