@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kimiko Abe<i>貴美子 安倍</i>
+title: Kimiko Abe<br><i>貴美子 安倍</i>
 ---
 # [KIM-i-koh]<br>[AH-bay]
 <dl>
