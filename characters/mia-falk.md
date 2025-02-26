@@ -1,13 +1,13 @@
 ---
 layout: default
-title: First Middle Last
+title: Mia Falk
 ---
-# [FIRST]<br>[MIDDLE]<br>[LAST]
+# [MEE-ah]<br>[FALK]
 <dl>
 <dt>Species</dt>
-<dd>[species]</dd>
+<dd>Human</dd>
 <dt>Sex</dt>
-<dd>[sex]</dd>
+<dd>Female</dd>
 <dt>Job</dt>
 <dd>[job]</dd>
 <dt>Place of Birth</dt>
@@ -18,4 +18,6 @@ title: First Middle Last
 <dd>[native]</dd>
 <dd>[learned]</dd>
 </dl>
-[description]
+Mia is a small, cute, petite, brunette girl.
+
+Mia is [Vivian](vivian-falk.md)'s younger siste
