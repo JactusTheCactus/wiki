@@ -13,10 +13,10 @@ title: Sophia Samara<br><i>Σοφία Σαμαρά</i>
 <dt>Place of Birth</dt>
 <dd>[city]</dd>
 <dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>Ελληνική Δημοκρατία</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>Ελληνικά <i>[eliniˈka]</i></dd>
+<dd>English</dd>
 </dl>
 
 Sophia Samara, or Σοφία Σαμαρά as she's known in her native Greek, is an apex harpy of unparalleled beauty, her golden plumage shimmering like the sun-kissed Mediterranean sands that birthed her. Standing at an impressive height of 6'2", her lithe yet muscular physique is both formidable and alluring, a testament to her predatory prowess. Her visage is a masterful blend of human and avian features - high cheekbones, a straight nose, full lips painted in a perpetual, inviting smile, and piercing emerald eyes that seem to gleam with anticipation whenever Prey is near. A crown of feathers adorns her head, framing her face like a regal diadem.
