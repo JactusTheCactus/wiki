@@ -15,8 +15,8 @@ title: Mia Falk
 <dd>[province/state/county/etc.]</dd>
 <dd>[country]</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>Svenska</dd>
+<dd>English</dd>
 </dl>
 Mia is a small, cute, petite, brunette girl.
 
