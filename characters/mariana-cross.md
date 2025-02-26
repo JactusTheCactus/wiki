@@ -11,9 +11,9 @@ title: Mariana Cross
 <dt>Job</dt>
 <dd>[job]</dd>
 <dt>Place of Birth</dt>
-<dd>[city]</dd>
-<dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>River Styx</dd>
+<dd>Circle #5</dd>
+<dd>Hell</dd>
 <dt>Spoken Languages</dt>
 <dd>Latinum</dd>
 <dd>English</dd>
