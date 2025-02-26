@@ -18,7 +18,6 @@ title: Maria Metaxa<br><i>Μαρία Μεταξά</i>
 <dd>Ελληνικά <i>[eliniˈka]</i></dd>
 <dd>English</dd>
 </dl>
-[description]
 
 Maria's human friends often find themselves in precarious situations when they first cross paths with her. Her predatory instincts are keen, and the scent of fresh Prey can be overwhelming. However, something within her, a spark of recognition or a glimmer of connection, often stays her fangs and turns her attention from hunger to companionship.
 
