@@ -13,10 +13,10 @@ title: Maria Metaxa<br><i>Μαρία Μεταξά</i>
 <dt>Place of Birth</dt>
 <dd>[city]</dd>
 <dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>Ελληνική Δημοκρατία</dd>
 <dt>Spoken Languages</dt>
-<dd>[native]</dd>
-<dd>[learned]</dd>
+<dd>Ελληνικά <i>[eliniˈka]</i></dd>
+<dd>English</dd>
 </dl>
 [description]
 
