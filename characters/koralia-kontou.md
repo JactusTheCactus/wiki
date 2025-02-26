@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Koralia Kontou<br><i>Κοραλία Κοντού</i>
+title: Koralia Kontou
+description: Κοραλία Κοντού
 ---
 # [koh-rah-LEE-ah]<br>[koh-DOO]
 <dl>
