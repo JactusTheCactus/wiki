@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Sophia Samara<br><i>Σοφία Σαμαρά</i>
+title: Sophia Samara
+description: Σοφία Σαμαρά
 ---
 # [soh-FEE-ah]<br>[sah-mah-RAH]
 <dl>
