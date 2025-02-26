@@ -15,7 +15,7 @@ title: Kimiko Abe<br><i>貴美子 安倍</i>
 <dd>[province/state/county/etc.]</dd>
 <dd>[country]</dd>
 <dt>Spoken Languages</dt>
-<dd>日本語 <i>[ɲihoŋɡo]</i>i></dd>
+<dd>日本語 <i>[ɲihoŋɡo]</i></dd>
 <dd>English</dd>
 </dl>
 
