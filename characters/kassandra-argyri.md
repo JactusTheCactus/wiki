@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kassandra Argyri<br>_(Κασσάνδρα Αργύρη)_
+title: Kassandra Argyri<br>_Κασσάνδρα Αργύρη_
 ---
 # [kah-SAN-dhrah]<br>[ar-GHEER-ee]
 <dl>
