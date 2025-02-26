@@ -13,7 +13,7 @@ title: Mia Falk
 <dt>Place of Birth</dt>
 <dd>[city]</dd>
 <dd>[province/state/county/etc.]</dd>
-<dd>[country]</dd>
+<dd>Sverige</dd>
 <dt>Spoken Languages</dt>
 <dd>Svenska</dd>
 <dd>English</dd>
