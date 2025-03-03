@@ -11,8 +11,8 @@ title: Mischa Jäger
 <dt>Job</dt>
 <dd>[job]</dd>
 <dt>Place of Birth</dt>
-<dd>[city]</dd>
-<dd>[province/state/county/etc.]</dd>
+<dd>Passau</dd>
+<dd>Lower Bavaria</dd>
 <dd>Deutschland</dd>
 <dt>Spoken Languages</dt>
 <dd>Deutsch</dd>
