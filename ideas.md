@@ -5,7 +5,7 @@ title: Characters Ideas
 - Sharpe
   - Skinhead
   - SHARP
-    - <u>S</u>kin<u>h</u>eads <u>A</u>gainst <u>R</u>acial <u>P</u>rejudice
+    - Skinheads Against Racial Prejudice
   - Anti-Fascist
   - Opposed to Boneheads
     - Nazi Skinheads
