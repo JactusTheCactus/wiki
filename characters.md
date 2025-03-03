@@ -23,3 +23,7 @@ title: Characters
 - [Scarlet Sinclair](characters/scarlet-sinclair.md)
 - [Sophia Samara](characters/sophia-samara.md)
 - [Vivian Falk](characters/vivian-falk.md)
+
+---
+
+[Character Ideas](ideas.md)
