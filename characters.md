@@ -2,6 +2,7 @@
 layout: default
 title: Characters
 ---
+[Character Ideas](ideas.md)
 # A
 - [Anișoara Căpățână](characters/anișoara-căpățână.md)
 - [Aurora Văduva](characters/aurora-văduva.md)
@@ -34,7 +35,3 @@ title: Characters
 # V
 - [Veronica Medvedeva](characters/veronica-medvedeva.md)
 - [Vivian Falk](characters/vivian-falk.md)
-
----
-
-[Character Ideas](ideas.md)
