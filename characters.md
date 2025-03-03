@@ -18,12 +18,14 @@ title: Characters
 - [Maria Metaxa](characters/maria-metaxa.md)
 - [Mariana Cross](characters/mariana-cross.md)
 - [Mia Falk](characters/mia-falk.md)
+- [Mischa Jäger](characters/mischa-jäger.md)
+- [Sadie Sharpe](characters/sadie-sharpe.md)
 - [Samantha Pryor](characters/samantha-pryor.md)
 - [Sarah Briggs](characters/sarah-briggs.md)
 - [Scarlet Sinclair](characters/scarlet-sinclair.md)
 - [Sophia Samara](characters/sophia-samara.md)
+- [Veronica Medvedeva](characters/veronica-medvedeva.md)
 - [Vivian Falk](characters/vivian-falk.md)
-- [Sadie Sharpe](characters/sadie-sharpe.md)
 
 ---
 
