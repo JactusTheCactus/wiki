@@ -12,7 +12,7 @@ title: Mischa Jäger
 <dd>[job]</dd>
 <dt>Place of Birth</dt>
 <dd>Passau</dd>
-<dd>Niedabayern</dd>
+<dd>Niederbayern</dd>
 <dd>Deutschland</dd>
 <dt>Spoken Languages</dt>
 <dd>Deutsch</dd>
