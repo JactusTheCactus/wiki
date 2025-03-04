@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Veronica "Медведь" Medvedeva
+title: Veronica `"Медведь"` Medvedeva
 ---
 # [Vuh-RON-ih-kuh]<br>[MED-ved]<br>[med-vuh-DEH-va]
 <dl>
