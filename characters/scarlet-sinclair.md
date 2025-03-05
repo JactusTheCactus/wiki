@@ -4,6 +4,8 @@ title: Scarlet Sinclair
 ---
 # [SKAR-let]<br>[sin-KLAYR]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Scarlet</dd>
 <dt>Species</dt>
 <dd>B+ Predator</dd>
 <dt>Sex</dt>

@@ -4,6 +4,8 @@ title: First Middle Last
 ---
 # [FIRST]<br>[MIDDLE]<br>[LAST]
 <dl>
+<dt>Preferred Name</dt>
+<dd>[name]</dd>
 <dt>Species</dt>
 <dd>[species]</dd>
 <dt>Sex</dt>

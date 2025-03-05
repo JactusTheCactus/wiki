@@ -5,6 +5,8 @@ description: 貴美子 安倍
 ---
 # [KIM-i-koh]<br>[AH-bay]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Kimiko</dd>
 <dt>Species</dt>
 <dd>Apex Predator</dd>
 <dt>Sex</dt>

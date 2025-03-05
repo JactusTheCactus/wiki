@@ -4,6 +4,8 @@ title: Aurora Văduva
 ---
 # [oh-ROR-ah]<br>[vuh-DOO-vah]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Aurora</dd>
 <dt>Species</dt>
 <dd>Huldra</dd>
 <dt>Sex</dt>

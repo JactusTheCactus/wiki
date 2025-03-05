@@ -5,6 +5,8 @@ title: Charlize Rothschild
 
 # [shar-LEEZ]<br>[ROTE-shild]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Charlize</dd>
 <dt>Species</dt>
 <dd>Apex Predator</dd>
 <dt>Sex</dt>

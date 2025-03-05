@@ -4,6 +4,8 @@ title: Sadie Sharpe
 ---
 # [SAY-dee]<br>[SHARP]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Sadie</dd>
 <dt>Species</dt>
 <dd>Human</dd>
 <dt>Sex</dt>

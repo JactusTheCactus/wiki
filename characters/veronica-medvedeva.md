@@ -4,6 +4,8 @@ title: Veronica "Медведь" Medvedeva
 ---
 # [Vuh-RON-ih-kuh]<br>[MED-ved]<br>[med-vuh-DEH-va]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Veronica</dd>
 <dt>Species</dt>
 <dd>Changeling</dd>
 <dt>Sex</dt>

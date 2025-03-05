@@ -4,6 +4,8 @@ title: Ciara Bán Róin
 ---
 # [KEE-rah]<br>[BAN]<br>[ROH-in]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Ciara</dd>
 <dt>Species</dt>
 <dd>Selkie</dd>
 <dt>Sex</dt>

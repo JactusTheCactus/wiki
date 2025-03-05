@@ -4,6 +4,8 @@ title: Gabi Belnades
 ---
 # [GAH-bee]<br>[bell-NA-dhess]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Gabi</dd>
 <dt>Species</dt>
 <dd>A+ Predator</dd>
 <dd>Changeling</dd>

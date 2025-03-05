@@ -5,6 +5,8 @@ description: Κασσάνδρα Αργύρη
 ---
 # [kah-SAN-dhrah]<br>[ar-GHEER-ee]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Kassie</dd>
 <dt>Species</dt>
 <dd>Predator</dd>
 <dt>Sex</dt>

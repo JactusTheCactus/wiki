@@ -5,6 +5,8 @@ description: Κοραλία Κοντού
 ---
 # [koh-rah-LEE-ah]<br>[koh-DOO]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Kori</dd>
 <dt>Species</dt>
 <dd>Mermaid</dd>
 <dd>Giantess</dd>

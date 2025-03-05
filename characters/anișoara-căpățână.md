@@ -2,9 +2,7 @@
 layout: default
 title: Anișoara Căpățână
 ---
-
 # [ah-ni-sho-AR-ah]<br>[kuh-puh-TSUU-nuh]
-
 <dl>
 <dt>Preferred Name</dt>
 <dd>Ani</dd>

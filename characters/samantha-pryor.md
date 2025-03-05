@@ -4,6 +4,8 @@ title: Samantha Pryor
 ---
 # [sah-MAN-thah]<br>[pr-EYE-er]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Sam</dd>
 <dt>Species</dt>
 <dd>Human</dd>
 <dt>Sex</dt>

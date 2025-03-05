@@ -4,6 +4,8 @@ title: Mariana Cross
 ---
 # [MAH-ree-ah-nah]<br>[KROS]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Mari</dd>
 <dt>Species</dt>
 <dd>Demon</dd>
 <dt>Sex</dt>

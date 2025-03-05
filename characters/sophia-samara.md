@@ -5,6 +5,8 @@ description: Σοφία Σαμαρά
 ---
 # [soh-FEE-ah]<br>[sah-mah-RAH]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Sophia</dd>
 <dt>Species</dt>
 <dd>Harpy</dd>
 <dt>Sex</dt>

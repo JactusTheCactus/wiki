@@ -4,6 +4,8 @@ title: Luca Matei
 ---
 # [LOO-kah]<br>[mah-TAY]
 <dl>
+<dt>Preferred Name</dt>
+<dd>Luca</dd>
 <dt>Species</dt>
 <dd>Vampire</dd>
 <dt>Sex</dt>
