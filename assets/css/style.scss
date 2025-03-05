@@ -37,8 +37,11 @@ ab {
   color: #666666 !important;
   cursor: not-allowed;
 }
-.small .button {
-  width: 10%;
+.size-10 .button {
+  width: calc(1/10);
+}
+.size-6 .button {
+  width: calc(1/6);
 }
 table {
   width: 100%;
