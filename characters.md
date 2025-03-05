@@ -3,8 +3,8 @@ layout: default
 title: Characters
 ---
 
-
 [Character Ideas](ideas.md)
+
 # A
 - [Anișoara Căpățână](characters/anișoara-căpățână.md)
 - [Aurora Văduva](characters/aurora-văduva.md)

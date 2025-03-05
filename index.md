@@ -3,5 +3,5 @@ layout: default
 title: Home Page
 ---
 
-- [Characters](characters.md)
-- [Writing System](abugida.html)
+<a href='https://jactusthecactus.github.io/wiki/characters.html' class='button'>Characters</a>
+<a href='https://jactusthecactus.github.io/wiki/abugida.html' class='button'>Writing System</a>
