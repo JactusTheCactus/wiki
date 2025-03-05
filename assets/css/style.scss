@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+  font-family: Abugida;
+  src:url('../abugida.ttf') format('truetype');
+}
+
+ab {
+  font-family: Abugida;
+  white-space: pre;
+  font-size: 0.5em;
+}
+
+.button {
+  background-color: #1c87c9;
+  border: none;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  float: left;
+  font-size: 20px;
+  cursor: pointer;
+  width: 50%;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: #1c87c9cc;
+  color: #ffffffcc;
+}
+table {
+  width: 100%;
+}
+.main-content {
+  font-size: 2em;
+}
