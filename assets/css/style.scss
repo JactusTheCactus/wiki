@@ -36,32 +36,33 @@ ab {
   color: #666666 !important;
   cursor: not-allowed;
 }
+// % - ( size / (size - 1))
 .size-10 .button {
-  width: 10.00%;
+  width: 8.88%;
 }
 .size-9 .button {
-  width: 11.11%;
+  width: 9.98%;
 }
 .size-8 .button {
-  width: 12.50%;
+  width: 11.35%;
 }
 .size-7 .button {
-  width: 14.28%;
+  width: 13.11%;
 }
 .size-6 .button {
-  width: 16.66%;
+  width: 15.46%;
 }
 .size-5 .button {
-  width: 20.00%;
+  width: 18.75%;
 }
 .size-4 .button {
-  width: 25.00%;
+  width: 23.66%;
 }
 .size-3 .button {
-  width: 33.33%;
+  width: 31.83%;
 }
 .size-2 .button {
-  width: 50.00%;
+  width: 48.00%;
 }
 .size-1 .button {
   width: 100.00%;
