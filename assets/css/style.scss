@@ -36,21 +36,8 @@ ab {
   color: #666666 !important;
   cursor: not-allowed;
 }
-// % - ( size / (size - 1))
 .size-10 .button {
   width: 8.88%;
-}
-.size-9 .button {
-  width: 9.98%;
-}
-.size-8 .button {
-  width: 11.35%;
-}
-.size-7 .button {
-  width: 13.11%;
-}
-.size-6 .button {
-  width: 15.46%;
 }
 .size-5 .button {
   width: 18.75%;
@@ -75,10 +62,6 @@ table {
 .size-3 .button,
 .size-4 .button,
 .size-5 .button,
-.size-6 .button,
-.size-7 .button,
-.size-8 .button,
-.size-9 .button,
 .size-10 .button {
   margin: 1%;
 }
