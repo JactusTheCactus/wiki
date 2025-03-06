@@ -13,9 +13,9 @@ title: Sadie Sharpe
 <dt>Job</dt>
 <dd>SHARP</dd>
 <dt>Place of Birth</dt>
-<dd>[city]</dd>
-<dd>[province/state/county/etc.]</dd>
-<dd>USA</dd>
+<dd>London</dd>
+<dd>Greater London</dd>
+<dd>England</dd>
 <dt>Spoken Languages</dt>
 <dd>English</dd>
 </dl>
