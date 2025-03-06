@@ -2,18 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
-
 @font-face {
   font-family: Abugida;
   src:url('../abugida.ttf') format('truetype');
 }
-
 ab {
   font-family: Abugida;
   white-space: pre;
   font-size: 0.5em;
 }
-
 .button {
   background-color: #1c87c9;
   border-radius: 5px;
@@ -71,4 +68,7 @@ table {
 }
 .main-content {
   font-size: 2em;
+}
+table {
+  width: max-content;
 }
