@@ -8,7 +8,7 @@ description: Μαρία Μεταξά
 <dt>Preferred Name</dt>
 <dd>Maria</dd>
 <dt>Species</dt>
-<dd>High-Tier Predator</dd>
+<dd>Predator</dd>
 <dt>Sex</dt>
 <dd>Female</dd>
 <dt>Job</dt>

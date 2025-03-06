@@ -22,4 +22,4 @@ title: Mia Falk
 </dl>
 Mia is a small, cute, petite, brunette girl.
 
-Mia is [Vivian](vivian-falk.md)'s younger siste
+Mia is [Vivian](vivian-falk.md)'s younger sister

@@ -7,7 +7,7 @@ title: Gabi Belnades
 <dt>Preferred Name</dt>
 <dd>Gabi</dd>
 <dt>Species</dt>
-<dd>A+ Predator</dd>
+<dd>Predator</dd>
 <dd>Changeling</dd>
 <dt>Sex</dt>
 <dd>Female</dd>

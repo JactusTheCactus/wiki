@@ -8,7 +8,7 @@ description: 貴美子 安倍
 <dt>Preferred Name</dt>
 <dd>Kimiko</dd>
 <dt>Species</dt>
-<dd>Apex Predator</dd>
+<dd>Predator</dd>
 <dt>Sex</dt>
 <dd>Female</dd>
 <dt>Job</dt>

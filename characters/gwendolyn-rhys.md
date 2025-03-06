@@ -7,7 +7,7 @@ title: Gwendolyn Rhys
 <dt>Preferred Name</dt>
 <dd>Gwen</dd>
 <dt>Species</dt>
-<dd>Apex Predator</dd>
+<dd>Predator</dd>
 <dt>Sex</dt>
 <dd>Female</dd>
 <dt>Job</dt>

@@ -7,7 +7,7 @@ title: Vivian Falk
 <dt>Preferred Name</dt>
 <dd>Vivian</dd>
 <dt>Species</dt>
-<dd>Apex Predator</dd>
+<dd>Predator</dd>
 <dt>Sex</dt>
 <dd>Female</dd>
 <dt>Job</dt>

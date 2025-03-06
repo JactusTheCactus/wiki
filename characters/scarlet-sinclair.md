@@ -7,7 +7,7 @@ title: Scarlet Sinclair
 <dt>Preferred Name</dt>
 <dd>Scarlet</dd>
 <dt>Species</dt>
-<dd>B+ Predator</dd>
+<dd>Predator</dd>
 <dt>Sex</dt>
 <dd>Female</dd>
 <dt>Job</dt>
