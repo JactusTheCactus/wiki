@@ -17,7 +17,6 @@ ab {
 .button {
   background-color: #1c87c9;
   border-radius: 5px;
-  border-width: 20px;
   color: white;
   padding: 20px;
   text-align: center;
@@ -69,6 +68,9 @@ ab {
 }
 table {
   width: 100%;
+}
+.size-1, .size-2, .size-3, .size-4, .size-5, .size-6, .size-7, .size-8, .size-9, .size-10 {
+  padding: 20px;
 }
 .main-content {
   font-size: 2em;
