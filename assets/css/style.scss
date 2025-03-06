@@ -72,3 +72,12 @@ table {
 .main-content {
   font-size: 2em;
 }
+.header::before,
+.header::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 40%;
+  height: 1px;
+  background-color: black;
+}
