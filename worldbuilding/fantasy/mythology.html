@@ -5,15 +5,10 @@ title: Mythology
 <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
-    let highlight = ["<<person>>", "<<container>>"]
-    let text = $("text").text()
-    highlight.forEach(function (v, k) {
-        console.log(v)
-        text = text.replaceAll(" ")
-        $("text").html(text)
-    })
 </script>
 
-<svg width="device-width" height="device-height">
-    <image xlink:href="https://www.mermaidchart.com/raw/30951e37-1208-4480-8ff3-05f0f95ecc39?theme=dark&version=v0.1&format=svg" width="90" height="90"/>    
+<svg width=max height=max>
+    <image
+        xlink:href="https://www.mermaidchart.com/raw/30951e37-1208-4480-8ff3-05f0f95ecc39?theme=dark&version=v0.1&format=svg"
+        width=max height=max />
 </svg>
