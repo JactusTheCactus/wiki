@@ -4,6 +4,7 @@ nameList = ["Do'ður","Li'ðin","Té'mur","Ha'din","Kwe'lin","Ne'tur","El'dur","
 descriptionList = ["God of Death","Goddess of Life","God of Time","Writer of Fate","Weaver of Fate","Trimmer of Fate","God of Energy","Goddess of Water","God of Earth","Goddess of Air","God of Fire","God of Mountains","God of Canyons & Cliffs","Goddess of Plants","Goddess of Creatures","Goddess of Magic","God of War","God of Warmth","Goddess of Peace","Goddess of Travel","God of Volcanoes","Goddess of Caves","Goddess of Alchemy","Goddess of Chemistry","God of Monsters","God of Animals","Goddess of Invention","God of Construction","God of Explosives","God of Strategy","Goddess of Healing","God of Art","Goddess of Lava","God of Burning","God of Fear","Goddess of Precious Gems","God of Artifacts","Goddess of Potions","God of Acids","Goddess of Discovery","Goddess of Air Animals","Goddess of Land Animals","God of Sea Animals","God of Undead","Goddess of Demons","God of Intelligence","Goddess of Creativity","God of Carpentry","Goddess of Architecture","God of Firearms","God of Bombs","Goddess of Cartography","God of Precision","Goddess of Surgery","God of Medicine","Goddess of Carving","Goddess of Paint",""]
 fig = go.Figure(go.Sankey(
     arrangement='snap',
+    orientation='v',
     node=dict(
         label=nameList,
         customdata=descriptionList,
