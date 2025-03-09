@@ -4,12 +4,14 @@ nameList = ["Do'ður","Li'ðin","Té'mur","Ha'din","Kwe'lin","Ne'tur","El'dur","
 descriptionList = ["God of Death","Goddess of Life","God of Time","Writer of Fate","Weaver of Fate","Trimmer of Fate","God of Energy","Goddess of Water","God of Earth","Goddess of Air","God of Fire","God of Mountains","God of Canyons & Cliffs","Goddess of Plants","Goddess of Creatures","Goddess of Magic","God of War","God of Warmth","Goddess of Peace","Goddess of Travel","God of Volcanoes","Goddess of Caves","Goddess of Alchemy","Goddess of Chemistry","God of Monsters","God of Animals","Goddess of Invention","God of Construction","God of Explosives","God of Strategy","Goddess of Healing","God of Art","Goddess of Lava","God of Burning","God of Fear","Goddess of Precious Gems","God of Artifacts","Goddess of Potions","God of Acids","Goddess of Discovery","Goddess of Air Animals","Goddess of Land Animals","God of Sea Animals","God of Undead","Goddess of Demons","God of Intelligence","Goddess of Creativity","God of Carpentry","Goddess of Architecture","God of Firearms","God of Bombs","Goddess of Cartography","God of Precision","Goddess of Surgery","God of Medicine","Goddess of Carving","Goddess of Paint",""]
 fig = go.Figure(go.Sankey(
     arrangement='snap',
-    orientation='v',
+    orientation='h',
     node=dict(
         label=nameList,
+        y=[0.787,0.365,0.966,0.933,0.966,1,0.146,0.558,0.725,0.85,0.391,0.683,0.766,0.850,0.075,0.216,0.35,0.433,0.516,0.6,0.65,0.717,0.817,0.883,0.117,0.033,0.183,0.250,0.317,0.383,0.483,0.550,0.666,0.633,0.733,0.7,0.833,0.8,0.866,0.9,0.001,0.033,0.066,0.1,0.133,0.166,0.2,0.233,0.266,0.3,0.333,0.366,0.4,0.466,0.5,0.533,0.566,0.706],
+        x=[0.2,0.2,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0],
         customdata=descriptionList,
         hovertemplate='<b>%{label}</b><br><i>%{customdata}</i><extra></extra>',
-        align='justify'
+        align='left'
 
     ),
     link=dict(
