@@ -33,29 +33,7 @@ ab {
   color: #666666 !important;
   cursor: not-allowed;
 }
-.size-10 .button {
-  width: 9%;
-}
-.size-6 .button {
-  width: 15.6%;
-}
-.size-3 .button {
-  width: 32%;
-}
-.size-2 .button {
-  width: 49%;
-}
-.size-1 .button {
-  width: 100%;
-}
-table {
-  width: 100%;
-}
-.size-1 .button,
-.size-2 .button,
-.size-3 .button,
-.size-6 .button,
-.size-10 .button {
+table .button {
   margin: 0.5%;
 }
 table {
