@@ -23,6 +23,7 @@ ab {
   cursor: pointer;
   width: 100%;
   transition-duration: 0.4s;
+  margin: 0.5%;
 }
 .button:hover {
   background-color: #1c87c9cc;
@@ -32,9 +33,6 @@ ab {
   background-color: #cccccc !important;
   color: #666666 !important;
   cursor: not-allowed;
-}
-td .button {
-  margin: 0.5%;
 }
 table {
   width: 100%;
