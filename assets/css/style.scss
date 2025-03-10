@@ -1,21 +1,22 @@
 ---
 ---
-
 @import "{{ site.theme }}";
+
 @font-face {
   font-family: Abugida;
-  src:url('../abugida.ttf') format('truetype');
+  src: url('../abugida.ttf') format('truetype');
 }
+
 ab {
   font-family: Abugida;
   white-space: pre;
   font-size: 0.5em;
 }
+
 .button {
   background-color: #1c87c9;
   border-radius: 5px;
   color: white;
-  padding: 10px;
   text-align: center;
   text-decoration: none;
   float: left;
@@ -25,20 +26,25 @@ ab {
   transition-duration: 0.4s;
   margin: 0.5%;
 }
+
 .button:hover {
   background-color: #1c87c9cc;
   color: #ffffffcc;
 }
+
 .button.disabled {
   background-color: #cccccc !important;
   color: #666666 !important;
   cursor: not-allowed;
 }
+
 table {
+  border-style: solid;
   width: 100%;
-  text-align: center;
 }
-th, td {
-  border-width: 0% !important;
-  border-color: #ffffff00 !important;
+
+th,
+td {
+  border-style: solid;
+  text-align: center;
 }
