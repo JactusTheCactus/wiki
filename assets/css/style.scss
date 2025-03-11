@@ -26,6 +26,7 @@ ab {
   }
   
   table.button tr td {
+    text-decoration: none;
     border-radius: 5px;
     background-color: #1c87c9;
     border-style: none;
@@ -39,5 +40,5 @@ ab {
   }
 
 table.button tr td a {
-  color: #fff
+  color: #fff;
 }
