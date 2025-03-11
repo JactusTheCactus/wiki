@@ -14,12 +14,12 @@ ab {
 }
 
   
-  table.button:hover tr td {
+  table.button tr td:hover {
     background-color: #1c87c9cc;
     color: #ffffffcc;
   }
   
-  table.button.disabled tr td {
+  table.button tr td.disabled {
     background-color: #cccccc !important;
     color: #666666 !important;
     pointer-events: none;
