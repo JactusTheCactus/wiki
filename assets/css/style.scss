@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
 @font-face {
@@ -13,35 +14,34 @@ ab {
   font-size: 0.5em;
 }
 
-  
-  table.button tr td:hover {
-    background-color: #1c87c9cc;
-    color: #ffffffcc;
-  }
-  
-  table.button tr td.disabled {
-    background-color: #cccccc !important;
-    color: #666666 !important;
-    pointer-events: none;
-  }
-  
-  table.button tr td {
-    border-radius: 5px;
-    background-color: #1c87c9;
-    border-style: none;
-    color: white;
-    text-align: center;
-    font-size: 20px;
-    cursor: pointer;
-    transition-duration: 0.4s;
-  }
+
+table.button tr td:hover {
+  background-color: #1c87c9cc;
+  color: #ffffffcc;
+}
+
+table.button tr td.disabled {
+  background-color: #cccccc !important;
+  color: #666666 !important;
+  pointer-events: none;
+}
+
+table.button tr td {
+  border-radius: 5px;
+  background-color: #1c87c9;
+  border-style: none;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
 
 table.button {
-  border-collapse: separate;
-    border-spacing: 30px !important;
+  border-spacing: 30px !important;
 }
 
 table.button tr td a {
   color: #fff;
-    text-decoration: none;
+  text-decoration: none;
 }
