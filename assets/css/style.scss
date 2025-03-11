@@ -27,7 +27,6 @@ table.button tr td.disabled {
 }
 
 table.button tr td {
-  border-collapse: separate;
   border-radius: 5px;
   background-color: #1c87c9;
   border-style: none;
@@ -39,6 +38,7 @@ table.button tr td {
 }
 
 table.button {
+  border-collapse: separate;
   border-spacing: 15px;
 }
 
