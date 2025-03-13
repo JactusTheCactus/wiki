@@ -53,6 +53,6 @@ table.button tr td a {
   color: #fff;
   text-decoration: none;
   display: block;
-  width: inherit;
-  height: inherit;
+  width: calc(100% / 0.9);
+  height: calc(100% / 0.9);
 }
