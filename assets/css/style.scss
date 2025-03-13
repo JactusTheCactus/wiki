@@ -27,7 +27,7 @@ table {
   color: #ffffffcc;
 }
 
-.button .disabled {
+.button td.disabled {
   background-color: #cccccc !important;
   color: #666666 !important;
   pointer-events: none;
