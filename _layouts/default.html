@@ -25,7 +25,7 @@
                   const cell = cells[i];
                   const widthPercent = Math.floor(remainingPercent / (cellCount - i)); // Calculate width for each cell
       
-                  cell.style.width = `${widthPercent}%`; // Set the width of each cell
+                  cell.style.colspan = `${widthPercent}%`; // Set the width of each cell
                   remainingPercent -= widthPercent; // Reduce the remaining percentage
               }
           });
