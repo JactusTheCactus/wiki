@@ -10,31 +10,19 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script>
-      function adjustColumnWidth() {
-          const rows = document.querySelectorAll("tr");
-          rows.forEach(row => {
-              const cells = row.children; // Get all <td> elements in the row
-              const cellCount = cells.length;
-      
-              // Skip empty rows
-              if (cellCount === 0) return;
-      
-              let remainingPercent = 100; // Track the remaining width percentage to ensure we fill the entire table
-      
-              for (let i = 0; i < cellCount; i++) {
-                  const cell = cells[i];
-                  const widthPercent = Math.floor(remainingPercent / (cellCount - i)); // Calculate width for each cell
-      
-                  cell.style.colspan = `${widthPercent}%`; // Set the width of each cell
-                  remainingPercent -= widthPercent; // Reduce the remaining percentage
-              }
+      document.querySelectorAll("tr").forEach(row => {
+        const cells = row.children;
+        const cellCount = cells.length;
+    
+        if (cellCount > 0) {
+          const colspanValue = Math.floor(100 / cellCount); // Get the base colspan percentage
+    
+          Array.from(cells).forEach(cell => {
+            cell.setAttribute('colspan', colspanValue);
           });
-      }
-      
-      // Run function after the page is loaded
-      document.addEventListener("DOMContentLoaded", adjustColumnWidth);
+        }
+      });
 
-        
         // Select all <a> elements on the page
         const links = document.querySelectorAll('a');
         // Loop through each link and set target to _blank
