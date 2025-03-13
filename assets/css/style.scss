@@ -56,6 +56,9 @@ table.button {
   border-spacing: 15px;
 }
 
+tr {
+  width: inherit;
+}
 .button a {
   color: #fff;
   text-decoration: none;
