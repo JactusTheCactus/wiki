@@ -35,6 +35,12 @@
     
         // Run function after the page is loaded
         document.addEventListener("DOMContentLoaded", adjustColspan);
+        
+        // Select all <a> elements on the page
+        const links = document.querySelectorAll('a');
+        // Loop through each link and set target to _blank
+        links.forEach(link => link.target = '_blank');
+
     </script>
     {% include head-custom.html %}
   </head>
