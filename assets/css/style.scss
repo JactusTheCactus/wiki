@@ -22,18 +22,18 @@ table {
   width: 100%;
 }
 
-table.button tr td:hover {
+table.button td:hover {
   background-color: #1c87c9cc;
   color: #ffffffcc;
 }
 
-table.button tr td.disabled {
+table.button td.disabled {
   background-color: #cccccc !important;
   color: #666666 !important;
   pointer-events: none;
 }
 
-table.button tr td {
+table.button td {
   border-radius: 5px;
   background-color: #1c87c9;
   border-style: none;
@@ -49,7 +49,7 @@ table.button {
   border-spacing: 15px;
 }
 
-table.button tr td a {
+.button a {
   color: #fff;
   text-decoration: none;
   display: block;
