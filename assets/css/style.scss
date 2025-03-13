@@ -33,6 +33,10 @@ table {
   pointer-events: none;
 }
 
+.button td:not(.disabled) a {
+  font-weight: bold;
+}
+
 .button td {
   border-radius: 5px;
   background-color: #1c87c9;
