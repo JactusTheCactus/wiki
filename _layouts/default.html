@@ -9,26 +9,6 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script>
-      document.querySelectorAll("tr").forEach(row => {
-        const cells = row.children;
-        const cellCount = cells.length;
-    
-        if (cellCount > 0) {
-          const colspanValue = Math.floor(100 / cellCount); // Get the base colspan percentage
-    
-          Array.from(cells).forEach(cell => {
-            cell.setAttribute('colspan', colspanValue);
-          });
-        }
-      });
-
-        // Select all <a> elements on the page
-        const links = document.querySelectorAll('a');
-        // Loop through each link and set target to _blank
-        links.forEach(link => link.target = '_blank');
-
-    </script>
     {% include head-custom.html %}
   </head>
   <body>
@@ -55,4 +35,24 @@
       </footer>
     </main>
   </body>
+  <script>
+    document.querySelectorAll("tr").forEach(row => {
+      const cells = row.children;
+      const cellCount = cells.length;
+  
+      if (cellCount > 0) {
+        const colspanValue = Math.floor(100 / cellCount); // Get the base colspan percentage
+  
+        Array.from(cells).forEach(cell => {
+          cell.setAttribute('colspan', colspanValue);
+        });
+      }
+    });
+
+      // Select all <a> elements on the page
+      const links = document.querySelectorAll('a');
+      // Loop through each link and set target to _blank
+      links.forEach(link => link.target = '_blank');
+
+  </script>
 </html>
