@@ -11,7 +11,7 @@ fig = go.Figure(go.Sankey(
         x=[0.2,0.2,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0],
         customdata=descriptionList,
         hovertemplate='<b>%{label}</b><br><i>%{customdata}</i><extra></extra>',
-        align='left'
+        align='justify'
 
     ),
     link=dict(
