@@ -45,6 +45,16 @@
       });
     }
   });
+  document.addEventListener("DOMContentLoaded", () => {
+    const rows = document.querySelectorAll("table tr");
+    rows.forEach(row => {
+      const cells = row.children;
+      const width = 100 / cells.length + "%";
+      Array.from(cells).forEach(cell => {
+        cell.style.width = width;
+      });
+    });
+  });
   // Select all <a> elements on the page
   const links = document.querySelectorAll('a');
   // Loop through each link and set target to _blank
