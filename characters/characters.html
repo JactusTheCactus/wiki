@@ -2,33 +2,6 @@
 layout: default
 title: Characters
 ---
-<script>
-    function adjustColspan() {
-        const rows = document.querySelectorAll("tr");
-        rows.forEach(row => {
-            const cells = row.children; // Get all <td> elements in the row
-            const cellCount = cells.length;
-
-            // Skip empty rows
-            if (cellCount === 0) return;
-
-            const targetColspan = Math.floor(100 / cellCount); // Get the base colspan percentage as an integer
-
-            let remainingPercent = 100; // Track the remaining percentage to ensure we cover the full 100%
-
-            for (let i = 0; i < cellCount; i++) {
-                const cell = cells[i];
-                const colspanValue = Math.floor(remainingPercent / (cellCount - i)); // Distribute the remaining width across the remaining cells
-
-                cell.setAttribute("colspan", colspanValue); // Set the colspan
-                remainingPercent -= colspanValue; // Reduce the remaining percentage
-            }
-        });
-    }
-
-    // Run function after the page is loaded
-    document.addEventListener("DOMContentLoaded", adjustColspan);
-</script>
 <table class="button">
    <tr>
       <td class="disabled"><a href="ideas.html" class="button">Character Ideas</a></td>
