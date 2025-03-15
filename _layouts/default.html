@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-CA' }}">
+
 <head>
   <meta charset="UTF-8">
   {% seo %}
@@ -10,6 +11,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   {% include head-custom.html %}
 </head>
+
 <body>
   <a id="skip-to-content" href="#content">Skip to the content.</a>
   <header class="page-header" role="banner">
@@ -62,4 +64,5 @@
   // Loop through each link and set target to _blank
   links.forEach(link => link.target = '_blank');
 </script>
+
 </html>
