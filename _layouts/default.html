@@ -37,7 +37,7 @@
   </main>
 </body>
 <script>
-  document.querySelectorAll("tr").forEach(row => {
+  /*document.querySelectorAll("tr").forEach(row => {
     const cells = row.children;
     const cellCount = cells.length;
     if (cellCount > 0) {
@@ -46,9 +46,9 @@
         cell.setAttribute('colspan', `${colspanValue}%`);
       });
     }
-  });
-  /*document.addEventListener("DOMContentLoaded", () => {
-    const rows = document.querySelectorAll("table tr");
+  });*/
+  document.addEventListener("DOMContentLoaded", () => {
+    const rows = document.querySelectorAll("tr");
     rows.forEach(row => {
       const cells = row.children;
       const width = `${100 / cells.length}%`;
@@ -56,7 +56,7 @@
         cell.style.width = width;
       });
     });
-  });*/
+  });
   const links = document.querySelectorAll('a');
   links.forEach(link => link.target = '_blank');
 </script>
