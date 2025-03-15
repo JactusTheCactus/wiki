@@ -37,7 +37,7 @@
   </main>
 </body>
 <script>
-  /*document.querySelectorAll("tr").forEach(row => {
+  document.querySelectorAll("tr").forEach(row => {
     const cells = row.children;
     const cellCount = cells.length;
     if (cellCount > 0) {
@@ -46,7 +46,7 @@
         cell.setAttribute('colspan', `${colspanValue}%`);
       });
     }
-  });*/
+  });
   document.addEventListener("DOMContentLoaded", () => {
     const rows = document.querySelectorAll("tr");
     rows.forEach(row => {
