@@ -17,6 +17,7 @@ ab {
 table {
   width: 100%;
   table-layout: fixed !important;
+  display: table;
 }
 
 .button td:hover {
