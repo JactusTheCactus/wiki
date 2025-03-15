@@ -41,7 +41,7 @@
     const cells = row.children;
     const cellCount = cells.length;
     if (cellCount > 0) {
-      const colspanValue = Math.floor(100 / cellCount); // Get the base colspan percentage
+      const colspanValue = Math.floor(100 / cellCount);
       Array.from(cells).forEach(cell => {
         cell.setAttribute('colspan', `${colspanValue}%`);
       });
@@ -57,9 +57,7 @@
       });
     });
   });*/
-  // Select all <a> elements on the page
   const links = document.querySelectorAll('a');
-  // Loop through each link and set target to _blank
   links.forEach(link => link.target = '_blank');
 </script>
 
