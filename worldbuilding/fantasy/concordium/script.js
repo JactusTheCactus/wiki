@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             // Output the data to the HTML
             const outputDiv = document.getElementById("output");
-            outputDiv.innerHTML = `<h1>${jsonData.name} ${jsonData.rank}</h1><h2>The ${jsonData.animal} ${jsonData.alignment} of ${jsonData.aspect}</h2><h3>"${jsonData.epithet}"</h3><ul><li>${jsonData.colour}</li><li>${jsonData.weapon}</li><li>${jsonData.power}</li><li>${jsonData.species}</li><li>${jsonData.description}</li></ul>`;
+            outputDiv.innerHTML = `<h1>${jsonData.name} ${jsonData.rank}</h1><h2>The ${jsonData.animal} ${jsonData.alignment} of ${jsonData.aspect}</h2><h3>"${jsonData.epithet}"</h3><ul><li>${jsonData.colour}</li><li>${jsonData.weapon}</li><li>${jsonData.power}</li><li>${jsonData.species}</li></ul><p>${jsonData.description}</p>`;
         } catch (error) {
             console.error("Error parsing JSON:", error);
         }
