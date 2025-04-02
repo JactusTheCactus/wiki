@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
             outputDiv.innerHTML = `
 <h1>${jsonData.name} ${jsonData.rank}</h1>
 <h2>The ${jsonData.animal} ${jsonData.alignment} of ${jsonData.aspect}</h2>
-<h3>"${jsonData.epithet}"</h3>
+<h3><i>"${jsonData.epithet}"</i></h3>
 <ul>
   <li><b>Armour Colour:</b> ${jsonData.colour}</li>
   <li><b>Weapon:</b> ${jsonData.weapon}</li>
