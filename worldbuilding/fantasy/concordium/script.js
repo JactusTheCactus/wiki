@@ -13,8 +13,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 });
-
-{
 //weapon
 //power
 //species
