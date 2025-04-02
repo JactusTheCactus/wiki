@@ -7,16 +7,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
             // Output the data to the HTML
             const outputDiv = document.getElementById("output");
-            outputDiv.innerHTML = `<h1>${jsonData.name} ${jsonData.rank}</h1><h2>The ${jsonData.colour} ${jsonData.animal} ${jsonData.alignment} of ${jsonData.aspect}</h2>`;
+            outputDiv.innerHTML = `<h1>${jsonData.name} ${jsonData.rank}</h1><h2>The ${jsonData.animal} ${jsonData.alignment} of ${jsonData.aspect}</h2><ul><li>${jsonData.colour}</li><li>${jsonData.weapon}</li><li>${jsonData.power}</li><li>${jsonData.species}</li><li>${jsonData.epithet}</li><li>${jsonData.description}</li></ul>`;
         } catch (error) {
             console.error("Error parsing JSON:", error);
         }
     }
 });
-/*
-weapon
-power
-species
-epithet
-description
-*/
