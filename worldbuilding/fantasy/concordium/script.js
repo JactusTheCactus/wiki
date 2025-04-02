@@ -15,8 +15,8 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 {
-weapon
-power
-species
-epithet
-description
+//weapon
+//power
+//species
+//epithet
+//description
