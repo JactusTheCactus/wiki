@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
   <li><b>Power:</b> ${jsonData.power}</li>
   <li><b>Species:</b> ${jsonData.species}</li>
 </ul>
-<p>${jsonData.description}</p>
+<div>${jsonData.description}</div>
 `;
         } catch (error) {
             console.error("Error parsing JSON:", error);
