@@ -9,8 +9,8 @@ document.addEventListener("DOMContentLoaded", function () {
             const outputDiv = document.getElementById("output");
             outputDiv.innerHTML = `
 <h1>${jsonData.name} ${jsonData.rank}</h1>
-<h2>The ${jsonData.animal} ${jsonData.alignment} of ${jsonData.aspect}</h2>
 <h3><i>"${jsonData.epithet}"</i></h3>
+<h2>The ${jsonData.animal} ${jsonData.alignment} of ${jsonData.aspect}</h2>
 <ul>
   <li><b>Armour Colour:</b> ${jsonData.colour}</li>
   <li><b>Weapon:</b> ${jsonData.weapon}</li>
