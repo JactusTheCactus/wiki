@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
         try {
             const jsonData = JSON.parse(jsonDataElement.textContent);
             document.title = jsonData.name
-            document.querySelector(".project-name").innerHTML = `${jsonData.name ? `<h1>${[jsonData.name, jsonData.rank].filter(Boolean).join('<br>')}</h1>` : ''}`
+            document.querySelector(".project-name").innerHTML = `${jsonData.name ? `${[jsonData.name, jsonData.rank].filter(Boolean).join('<br>')}` : ''}`
             document.querySelector(".project-tagline").innerHTML = `The ${[jsonData.animal, jsonData.alignment].filter(Boolean).join(' ')}${jsonData.aspect ? ` of ${jsonData.aspect}` : ''}`
             // Output the data to the HTML
             const outputDiv = document.getElementById("output");
