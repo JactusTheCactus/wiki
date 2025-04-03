@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
                 return jsonData.rank;
             }
-            jsonData.sex = sex()
+            jsonData.rank = sex()
             document.title = jsonData.aspect
             document.querySelector(".project-name").innerHTML = `${jsonData.name ? `${[jsonData.name, jsonData.rank].filter(Boolean).join('<br>')}` : ''}`
             document.querySelector(".project-tagline").innerHTML = `${jsonData.epithet ? `<i>"${jsonData.epithet}"</i><br>` : ''}The ${[jsonData.animal, jsonData.alignment].filter(Boolean).join(' ')}${jsonData.aspect ? ` of ${jsonData.aspect}` : ''}`
