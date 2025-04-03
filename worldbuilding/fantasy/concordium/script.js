@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (jsonDataElement) {
         try {
             const jsonData = JSON.parse(jsonDataElement.textContent);
+            document.title = jsonData.name
             document.querySelector(".project-name").innerHTML = `${jsonData.name ? `<h1>${[jsonData.name, jsonData.rank].filter(Boolean).join('<br>')}</h1>` : ''}`
             // Output the data to the HTML
             const outputDiv = document.getElementById("output");
