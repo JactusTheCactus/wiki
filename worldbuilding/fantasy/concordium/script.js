@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (jsonDataElement) {
         try {
             const jsonData = JSON.parse(jsonDataElement.textContent);
-            document.querySelector(".project-name") = jsonData.name
+            document.querySelector(".project-name").innerHTML = jsonData.name
             // Output the data to the HTML
             const outputDiv = document.getElementById("output");
             outputDiv.innerHTML = `
