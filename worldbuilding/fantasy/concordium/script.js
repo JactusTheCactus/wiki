@@ -6,11 +6,12 @@ document.addEventListener("DOMContentLoaded", function () {
             const jsonData = JSON.parse(jsonDataElement.textContent);
             document.title = jsonData.name
             document.querySelector(".project-name").innerHTML = `${jsonData.name ? `<h1>${[jsonData.name, jsonData.rank].filter(Boolean).join('<br>')}</h1>` : ''}`
+            document.querySelector(".project-tagline").innerHTML = `The ${[jsonData.animal, jsonData.alignment].filter(Boolean).join(' ')}${jsonData.aspect ? ` of ${jsonData.aspect}` : ''}`
             // Output the data to the HTML
             const outputDiv = document.getElementById("output");
             outputDiv.innerHTML = `
 ${jsonData.epithet ? `<h3><i>"${jsonData.epithet}"</i></h3>` : ''}
-${`<h2>The ${[jsonData.animal, jsonData.alignment].filter(Boolean).join(' ')}${jsonData.aspect ? ` of ${jsonData.aspect}` : ''}</h2>`}
+${`<h2></h2>`}
 ${(jsonData.colour || jsonData.weapon || jsonData.power || jsonData.species) ?
 `
 <ul>
