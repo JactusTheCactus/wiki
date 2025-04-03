@@ -4,6 +4,22 @@ document.addEventListener("DOMContentLoaded", function () {
     if (jsonDataElement) {
         try {
             const jsonData = JSON.parse(jsonDataElement.textContent);
+            function sex() {
+                const rankMap = {
+                    "Imperatore": {"F":"Imperatora","M":"Imperator"},
+                    "Venatorium":{"F":"Venatrix","M":"Venator"},
+                    "Ferratorium":{"F":"Ferratrix","M":"Ferrator"},
+                    "Dominum":{"F":"Domina","M":"Dominus"},
+                    "Luminorium":{"F":"Luminora","M":"Luminor"},
+                    "Exaltum":{"F":"Exalta","M":"Exaltus"},
+                    "Bellatorium":{"F":"Bellatrix","M":"Bellator"}
+                };
+                if (rankMap[jsonData.rank]) {
+                    return rankMap[jsonData.rank][jsonData.sex] || jsonData.rank;
+                }
+                return jsonData.rank;
+            }
+            jsonData.sex = sex()
             document.title = jsonData.aspect
             document.querySelector(".project-name").innerHTML = `${jsonData.name ? `${[jsonData.name, jsonData.rank].filter(Boolean).join('<br>')}` : ''}`
             document.querySelector(".project-tagline").innerHTML = `${jsonData.epithet ? `<i>"${jsonData.epithet}"</i><br>` : ''}The ${[jsonData.animal, jsonData.alignment].filter(Boolean).join(' ')}${jsonData.aspect ? ` of ${jsonData.aspect}` : ''}`
